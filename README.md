@@ -79,6 +79,8 @@ Solidity is licensed under [GNU General Public License v3.0](LICENSE.txt).
 
 Some third-party code has its [own licensing terms](cmake/templates/license.h.in).
 
+
+
 # Getting Started with Next.js
 
 Welcome to the Next.js documentation!
